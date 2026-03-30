@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá, eu sou o Caio 👋
 
-<!--
-**Caio-Almeida-P/Caio-Almeida-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor em formação focado em Java e Banco de Dados
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+- Estudando Programação Orientada a Objetos
+- Criando projetos práticos para aprendizado
+- Interesse em desenvolvimento back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias
+- Java;
+- SQL;
+- Git e GitHub.
+
+📌 Projetos em destaque
+- Sistema Bancário em Java (em desenvolvimento)
+- Exercícios de lógica de programação
+
+📫 Contato
+- LinkedIn: https://www.linkedin.com/in/caio-de-almeida-paiva/
