@@ -1,5 +1,5 @@
 <div align="center">
- # Olá, eu sou o Caio, tenho grande interesse na área do desenvolvimento de sistemas, atualmente estou focando no desenvolvimento back-end, no uso da linguagem Java para programação e MySQL para banco de dados.
+# Olá, eu sou o Caio, tenho grande interesse na área do desenvolvimento de sistemas, atualmente estou focando no desenvolvimento back-end, no uso da linguagem Java para programação e MySQL para banco de dados.
 </div>
 
 ## 🚀 Sobre mim
