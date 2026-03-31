@@ -5,6 +5,7 @@
 
 ## 🚀 Sobre mim
 - Estudando Programação Orientada a Objetos;
+- Cursando Análise e Desenvolvimento de Sistemas na Senac;
 - Criando projetos práticos para aprendizado;
 - Interesse em desenvolvimento back-end.
 
